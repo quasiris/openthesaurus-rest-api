@@ -1,4 +1,4 @@
-package com.quasiris.nlp.synonyms;
+package com.quasiris.nlp.openthesaurus;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

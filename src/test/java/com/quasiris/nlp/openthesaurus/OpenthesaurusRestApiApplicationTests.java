@@ -1,4 +1,4 @@
-package com.quasiris.nlp.synonyms;
+package com.quasiris.nlp.openthesaurus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

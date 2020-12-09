@@ -1,0 +1,25 @@
+spring:
+  session:
+    store-type: none
+  devtools:
+    restart:
+      enabled: false
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+    database: mysql
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/openthesaurus?useSSL=false
+    username: openthesaurus
+    password: ztZC2nRxWKE4itV
+    continue-on-error: false
+server:
+  port: 8080
+
+logging:
+  level:
+    root: ERROR
+    org.springframework.web: ERROR
+    com.quasiris: DEBUG
+    org.hibernate: ERROR
