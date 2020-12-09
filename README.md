@@ -2,7 +2,9 @@
 A REST API for https://www.openthesaurus.de/ data with Spring Boot.
 
 ![Maven Build](https://github.com/quasiris/openthesaurus-rest-api/workflows/Java%20CI%20with%20Maven/badge.svg)
+![last commit](https://img.shields.io/github/last-commit/quasiris/openthesaurus-rest-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Database
 
